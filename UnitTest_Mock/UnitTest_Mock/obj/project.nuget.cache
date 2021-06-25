@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a4dKPpzudM8MYidFjfG1IvtVPYqNK6EzQFJk5wFikqPV/aZ1TDRbpyQoU+hEvhgQiaD7gC4Hv2pB8QWmj7oOhQ==",
+  "dgSpecHash": "1evcDnk64eWnVh0l8PMS84HtOjZrEIzsD+ot7KDyzhuMxQVFYjm32EXGIIEKo6DAAtwCfl+XRYafEeQ8p6IaxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Youcode\\Desktop\\UnitTest_Mock\\UnitTest_Mock\\UnitTest_Mock.csproj",
+  "projectFilePath": "C:\\Users\\Youcode\\Desktop\\Xunit-doker\\UnitTest_Mock\\UnitTest_Mock\\UnitTest_Mock.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Youcode\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Youcode\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
@@ -30,6 +30,7 @@
     "C:\\Users\\Youcode\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Youcode\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
     "C:\\Users\\Youcode\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Youcode\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\Youcode\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Youcode\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\Youcode\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",

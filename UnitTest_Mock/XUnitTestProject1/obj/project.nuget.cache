@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v2zAC30qtYIEfNRytCFeZW9qhiF4bd6jm0RNdtNYelAb3xejMPI53QCdOwogXC93SB5i29PTu9SmK4Xj+omYhg==",
+  "dgSpecHash": "DHSJOgwTDE0SHKGlzQ0Y1lCZSEVVU+wFaEs0S2Q7bp/7EbdR8D1lPM43m4xgauNQLD9lgLY0EJPaB6q75lXfdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Youcode\\Desktop\\UnitTest_Mock\\XUnitTestProject1\\XUnitTestProject1.csproj",
+  "projectFilePath": "C:\\Users\\Youcode\\Desktop\\Xunit-doker\\UnitTest_Mock\\XUnitTestProject1\\XUnitTestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Youcode\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Youcode\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
@@ -36,6 +36,7 @@
     "C:\\Users\\Youcode\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Youcode\\.nuget\\packages\\microsoft.testplatform.objectmodel\\16.5.0\\microsoft.testplatform.objectmodel.16.5.0.nupkg.sha512",
     "C:\\Users\\Youcode\\.nuget\\packages\\microsoft.testplatform.testhost\\16.5.0\\microsoft.testplatform.testhost.16.5.0.nupkg.sha512",
+    "C:\\Users\\Youcode\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\Youcode\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\Youcode\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Youcode\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",

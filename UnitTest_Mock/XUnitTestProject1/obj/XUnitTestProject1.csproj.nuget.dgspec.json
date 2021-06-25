@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Youcode\\Desktop\\UnitTest_Mock\\XUnitTestProject1\\XUnitTestProject1.csproj": {}
+    "C:\\Users\\Youcode\\Desktop\\Xunit-doker\\UnitTest_Mock\\XUnitTestProject1\\XUnitTestProject1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Youcode\\Desktop\\UnitTest_Mock\\UnitTest_Mock\\UnitTest_Mock.csproj": {
+    "C:\\Users\\Youcode\\Desktop\\Xunit-doker\\UnitTest_Mock\\UnitTest_Mock\\UnitTest_Mock.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Youcode\\Desktop\\UnitTest_Mock\\UnitTest_Mock\\UnitTest_Mock.csproj",
+        "projectUniqueName": "C:\\Users\\Youcode\\Desktop\\Xunit-doker\\UnitTest_Mock\\UnitTest_Mock\\UnitTest_Mock.csproj",
         "projectName": "UnitTest_Mock",
-        "projectPath": "C:\\Users\\Youcode\\Desktop\\UnitTest_Mock\\UnitTest_Mock\\UnitTest_Mock.csproj",
+        "projectPath": "C:\\Users\\Youcode\\Desktop\\Xunit-doker\\UnitTest_Mock\\UnitTest_Mock\\UnitTest_Mock.csproj",
         "packagesPath": "C:\\Users\\Youcode\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Youcode\\Desktop\\UnitTest_Mock\\UnitTest_Mock\\obj\\",
+        "outputPath": "C:\\Users\\Youcode\\Desktop\\Xunit-doker\\UnitTest_Mock\\UnitTest_Mock\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -52,6 +52,10 @@
               "target": "Package",
               "version": "[5.0.7, )"
             },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.9, )"
+            },
             "Swashbuckle.AspNetCore.Swagger": {
               "target": "Package",
               "version": "[6.1.4, )"
@@ -87,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\Youcode\\Desktop\\UnitTest_Mock\\XUnitTestProject1\\XUnitTestProject1.csproj": {
+    "C:\\Users\\Youcode\\Desktop\\Xunit-doker\\UnitTest_Mock\\XUnitTestProject1\\XUnitTestProject1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Youcode\\Desktop\\UnitTest_Mock\\XUnitTestProject1\\XUnitTestProject1.csproj",
+        "projectUniqueName": "C:\\Users\\Youcode\\Desktop\\Xunit-doker\\UnitTest_Mock\\XUnitTestProject1\\XUnitTestProject1.csproj",
         "projectName": "XUnitTestProject1",
-        "projectPath": "C:\\Users\\Youcode\\Desktop\\UnitTest_Mock\\XUnitTestProject1\\XUnitTestProject1.csproj",
+        "projectPath": "C:\\Users\\Youcode\\Desktop\\Xunit-doker\\UnitTest_Mock\\XUnitTestProject1\\XUnitTestProject1.csproj",
         "packagesPath": "C:\\Users\\Youcode\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Youcode\\Desktop\\UnitTest_Mock\\XUnitTestProject1\\obj\\",
+        "outputPath": "C:\\Users\\Youcode\\Desktop\\Xunit-doker\\UnitTest_Mock\\XUnitTestProject1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -115,8 +119,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Youcode\\Desktop\\UnitTest_Mock\\UnitTest_Mock\\UnitTest_Mock.csproj": {
-                "projectPath": "C:\\Users\\Youcode\\Desktop\\UnitTest_Mock\\UnitTest_Mock\\UnitTest_Mock.csproj"
+              "C:\\Users\\Youcode\\Desktop\\Xunit-doker\\UnitTest_Mock\\UnitTest_Mock\\UnitTest_Mock.csproj": {
+                "projectPath": "C:\\Users\\Youcode\\Desktop\\Xunit-doker\\UnitTest_Mock\\UnitTest_Mock\\UnitTest_Mock.csproj"
               }
             }
           }
