@@ -1,13 +1,11 @@
-﻿
-name: CI
 
+name: CI
 
 on:
   push:
     branches:
     - master
     - release/*
-
 
 jobs:
   build_icolors:
